@@ -1,5 +1,7 @@
-# Customer Segmentation/Ranking done for a website on the basis of Frequency, Monetory(Expenditure), Recency(how recently)
-This is Unsupervised learning because of unavailability of labels in data.
+# Customer Segmentation/Ranking 
+
+
+Project performed with Unsupervised learning because of unavailability of labels in data.
 Description: Customers ranking on the basis of Recency Frequency Monetary RFM method, The resulting segments can be ordered from most valuable (highest recency, frequency, and value) to least valuable (lowest recency, frequency, and value). 
 Dsiclaimer: Dataset available in Simplilearn, not exposed to public
 
